@@ -1,8 +1,8 @@
-# Products
+![](https://github.com/superdapp-com/.github/blob/main/img/header@2x.png)
 
-## Blau - Wallet + Dapp
+# Superdapp
 
-https://blau.superdapp.com
+https://superdapp.com
 
 ## Registry - Public crypto protocol database
 
