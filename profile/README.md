@@ -1,4 +1,4 @@
-![](https://github.com/superdapp-com/.github/blob/main/img/header@2x.png)
+![](https://github.com/superdapp-com/.github/blob/main/.github/img/header@2x.png?raw=true)
 
 # Superdapp
 
